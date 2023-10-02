@@ -29,7 +29,6 @@ You can install the **B2B Orders History** app by running `vtex install vtex.b2b
 After installing the app, you must hide the default **Orders** page within **My Account**. To do this, follow the steps below.
 
 
-
 1. On the VTEX Admin, access **Account Settings > Apps > My apps**.
 2. In the list of apps, find **My Account** and click on its <img src="https://user-images.githubusercontent.com/77292838/160175751-b3803ff1-41f1-46d2-981a-b57693c03f79.png" width="15" alt-text="gear-icon"/> `Settings`.
 
